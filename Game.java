@@ -32,7 +32,7 @@ public class Game {
 
     private void printWelcome() {
         System.out.println();
-        System.out.println("欢迎来到城堡！");
+        System.out.print("欢迎来到城堡！");
         System.out.println("这是一个超级无聊的游戏。");
         System.out.println("如果需要帮助，请输入 'help' 。");
         System.out.println();
