@@ -14,7 +14,6 @@ public class Game {
     {
         Room outside, lobby, pub, study, bedroom;
       
-        //	制造房间
         outside = new Room("城堡外");
         lobby = new Room("大堂");
         pub = new Room("小酒吧");
